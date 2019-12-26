@@ -11,3 +11,4 @@ edit_uri: ''
 
 nav:
     - Intro: 'index.md'
+    - Ansible Setup: 'ansible-hosts.md'
