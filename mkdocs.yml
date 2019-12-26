@@ -1,0 +1,13 @@
+site_name: dev-notes
+site_description: Usefull collection of development notes.
+site_url: https://github.com/iancleary/dev-notes
+
+theme:
+    name: 'material'
+
+repo_name: iancleary/dev-notes
+repo_url: https://github.com/iancleary/dev-notes
+edit_uri: ''
+
+nav:
+    - Intro: 'index.md'
