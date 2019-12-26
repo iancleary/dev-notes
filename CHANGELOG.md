@@ -7,9 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ansible setup and ping
+
 ## [0.0.0] - 2019-12-26
 
 - Conception!
 
-[Unreleased]: https://github.com/iancleary/pypackage/compare/v0.0.0...HEAD
-[0.0.0]: https://github.com/iancleary/pypackage/releases/tag/v0.0.0
+[Unreleased]: https://github.com/iancleary/dev-notes/compare/v0.0.0...HEAD
+[0.0.0]: https://github.com/iancleary/dev-notes/releases/tag/v0.0.0
