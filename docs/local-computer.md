@@ -55,18 +55,21 @@ SWCarpentry has great [lessons and references on Makefiles](https://swcarpentry.
 #### Snap install example
 
 Snap target showing how to install `snapd` with `apt`.
+
 ![images/local-computer/snap-apt-dependency.png](images/local-computer/snap-apt-dependency.png)
 
 Targets requiring the snap target be run **first**!
+
 ![images/local-computer/snap-target-dependencies.png](images/local-computer/snap-target-dependencies.png)
 
 All my targets with snap
+
 ![images/local-computer/snap-targets.png](images/local-computer/snap-targets.png)
 
 ## Current vs. Future Needs
 
 In the above examples and my use cases, the efficiency gain is not having to track down the installation scripts repeatedly from across the internet.  I find the make dependency syntax and the self documenting help bash script to be sufficient for my current needs.
 
-For cases where order and efficient matter, I would use Ansible. 
+For cases where order and efficiency matter, I would use Ansible.
 
 > Please see the next page for how I setup my build and web servers using Ansible.

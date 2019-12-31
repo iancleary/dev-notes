@@ -9,7 +9,8 @@ This is a repo containing many resources I've collected through other projects, 
 
 ## Features
 
-- ansible (server configuration and infrastructure as code)
+- Makefile and install scripts (local computer setup)
+- Ansible (server configuration and infrastructure as code)
 
 ## Notes about Netlify configuration
 
