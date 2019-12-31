@@ -13,4 +13,4 @@ This is a repo containing many resources I've collected through other projects, 
 
 ## Notes about Netlify configuration
 
-https://docs.netlify.com/configure-builds/common-configurations/#mkdocs
+<https://docs.netlify.com/configure-builds/common-configurations/#mkdocs>
