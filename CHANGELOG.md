@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- local computer and install scripts tutorial
 - ansible setup and ping
 
 ## [0.0.0] - 2019-12-26
