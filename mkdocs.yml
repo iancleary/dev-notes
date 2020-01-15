@@ -13,3 +13,4 @@ nav:
     - Intro: 'index.md'
     - Local Computer Setup: 'local-computer.md'
     - Ansible Setup: 'ansible-hosts.md'
+    - Raspberry Pi - UniFi Controller: 'rpi-unifi.md'
