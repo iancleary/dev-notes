@@ -11,6 +11,7 @@ This is a repo containing many resources I've collected through other projects, 
 
 - Makefile and install scripts (local computer setup)
 - Ansible (server configuration and infrastructure as code)
+- Unify Controller on a Raspberry Pi with Docker and Systemd
 
 ## Notes about Netlify configuration
 
