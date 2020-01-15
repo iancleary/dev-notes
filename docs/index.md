@@ -8,4 +8,6 @@ This is a repo containing many resources I've collected through other projects, 
 
 ## Features
 
+- local computer setup scripts with a self-documenting Makefile
 - ansible (server configuration and infrastructure as code)
+- Raspberry Pi Configuration for a UniFi Wireless Access Point Controller with Docker and systemd
