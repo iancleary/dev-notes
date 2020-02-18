@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - local computer and install scripts tutorial
 - ansible setup and ping
 - UniFi Controller on a Raspberry Pi
+- rebranded to `wiki` sub domain (from `dev-notes`)
 
 ## [0.0.0] - 2019-12-26
 

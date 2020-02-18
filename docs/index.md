@@ -1,6 +1,6 @@
-# Dev-notes
+# Personal Wiki
 
-[![image](https://img.shields.io/github/contributors/iancleary/dev-notes.svg)](https://github.com/iancleary/dev-notes/graphs/contributors)
+[![image](https://img.shields.io/github/contributors/iancleary/wiki.svg)](https://github.com/iancleary/wiki/graphs/contributors)
 
 ## The Basic Idea
 
