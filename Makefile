@@ -16,9 +16,10 @@ help:
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ".:*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
 
 venv: DARGS?=
-venv: ## create python3 venv 
+venv: ## create python3 venv
 	python3 -m venv venv
 	# source venv/bin/activate
+	# pip install -r requirements.txt
 
 docs-live:
 docs-live: ## create live docs

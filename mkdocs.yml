@@ -1,12 +1,12 @@
-site_name: dev-notes
-site_description: Usefull collection of development notes.
-site_url: https://github.com/iancleary/dev-notes
+site_name: wiki
+site_description: Personal wiki, open to collaboration!
+site_url: https://github.com/iancleary/wiki
 
 theme:
     name: 'material'
 
-repo_name: iancleary/dev-notes
-repo_url: https://github.com/iancleary/dev-notes
+repo_name: iancleary/wiki
+repo_url: https://github.com/iancleary/wiki
 edit_uri: ''
 
 nav:
